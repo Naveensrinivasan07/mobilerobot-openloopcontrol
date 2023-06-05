@@ -238,8 +238,9 @@ if _name_ == '_main_':
 ![robo](./img/robomaster.png)
 
 Insert image here
-![image1](output1.png)
-![image2](output2.png)
+![image1](![Screenshot 2023-06-05 111755](https://github.com/Naveensrinivasan07/mobilerobot-openloopcontrol/assets/119475891/760caa70-a746-408d-8696-ed3168bdd9d3)
+![image2](![Screenshot 2023-06-05 111814](https://github.com/Naveensrinivasan07/mobilerobot-openloopcontrol/assets/119475891/481b9feb-e92c-4ddb-8cd4-c912a3f7bc50)
+
 
 
 <br/>
