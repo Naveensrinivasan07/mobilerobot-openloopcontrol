@@ -114,9 +114,7 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
-![image1](output1.png)
-![image2](output2.png)
+
 
 
 <br/>
