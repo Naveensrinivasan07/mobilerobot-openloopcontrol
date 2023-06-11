@@ -125,8 +125,7 @@ if _name_ == '_main_':
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
-
-[![IMAGE ALT TEXT HERE] (# MobileRobot-Openloopcontrol
+[(https://youtube.com/shorts/Xbq9WofmPYA?feature=share)]
 ## Aim:
 
 To develop a python control code to move the mobilerobot along the predefined path.
@@ -250,7 +249,7 @@ Insert image here
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE] (https://youtube.com/shorts/Xbq9WofmPYA?feature=share)]
+[(https://youtube.com/shorts/Xbq9WofmPYA?feature=share)]
 
 <br/>
 <br/>
