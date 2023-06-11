@@ -39,7 +39,7 @@ Step5:
 Give ep_chassis.drive_speed to have a circular movement.
 
 <br/>
-Give ep_chassis.drive_speed to have a circular movement.
+
 ## Program
 ```python
 #DEVELOPED BY :NAVEEN S
