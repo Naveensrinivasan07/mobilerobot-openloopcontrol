@@ -111,12 +111,7 @@ if _name_ == '_main_':
 ```
 
 ## MobileRobot Movement Image:
-
 ![robo](./img/robomaster.png)
-
-
-
-
 <br/>
 <br/>
 <br/>
@@ -126,6 +121,12 @@ if _name_ == '_main_':
 
 Upload your video in Youtube and paste your video-id here
 [(https://youtube.com/shorts/Xbq9WofmPYA?feature=share)]
+
+
+
+
+
+
 ## Aim:
 
 To develop a python control code to move the mobilerobot along the predefined path.
@@ -235,31 +236,22 @@ if _name_ == '_main_':
 ![robo](./img/robomaster.png)
 
 Insert image here
-![image1](![Screenshot 2023-06-05 111755](https://github.com/Naveensrinivasan07/mobilerobot-openloopcontrol/assets/119475891/760caa70-a746-408d-8696-ed3168bdd9d3)
-![image2](![Screenshot 2023-06-05 111814](https://github.com/Naveensrinivasan07/mobilerobot-openloopcontrol/assets/119475891/481b9feb-e92c-4ddb-8cd4-c912a3f7bc50)
-
-
-
+(![Screenshot 2023-06-05 111755](https://github.com/Naveensrinivasan07/mobilerobot-openloopcontrol/assets/119475891/760caa70-a746-408d-8696-ed3168bdd9d3)
+(![Screenshot 2023-06-05 111814](https://github.com/Naveensrinivasan07/mobilerobot-openloopcontrol/assets/119475891/481b9feb-e92c-4ddb-8cd4-c912a3f7bc50)
 <br/>
 <br/>
 <br/>
 <br/>
 
 ## MobileRobot Movement Video:
-
 Upload your video in Youtube and paste your video-id here
-
 [(https://youtube.com/shorts/Xbq9WofmPYA?feature=share)]
-
 <br/>
 <br/>
 <br/>
 <br/>
-
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-
-
 <br/>
 <br/>
 
